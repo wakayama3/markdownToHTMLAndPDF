@@ -1,0 +1,7 @@
+services:
+  pandoc:
+    build: .
+    volumes:
+      - ./markdown:/app/markdown
+      - ./output:/app/output
+      - ./assets:/app/assets
