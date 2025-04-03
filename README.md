@@ -1,4 +1,6 @@
 # markdownToHTMLAndPDF
+## 要件
+Docker動作環境
 
 ## 使い方
 1. `markdown/hoge.md` を配置
